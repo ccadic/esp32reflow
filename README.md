@@ -8,3 +8,6 @@ It is still a proto. I'm waiting for the PCB to arrive
 
 ![reflow_controller](https://github.com/ccadic/esp32reflow/blob/main/reflow%20controller.jpg)
 
+Here you have the first KICAD files
+YOu also have the solidworks pre-prototyping files
+ALl are subject to modification as the project gores on.
